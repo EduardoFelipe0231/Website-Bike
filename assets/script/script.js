@@ -25,7 +25,7 @@ const switchTheme = () => {
 
 //seleciona cada objeto via INDEX da nossa lista de btns e atribui uma função para cada um deles, nesse é a troca da imagem.
 btns[0].onclick = function(){
-    imgBike.src = 'assets/images/black.png';
+    imgBike.src = 'assets/images/Black.png';
     btnsTheme.style.color = "#000000";
 
 }
